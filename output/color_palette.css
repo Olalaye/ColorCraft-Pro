@@ -1,0 +1,91 @@
+/* 自动生成的调色板CSS变量 */
+:root {
+    --color-1: #534833ff;
+    --color-2: #85734aff;
+    --color-3: #a7a5abff;
+    --color-4: #bbbac0ff;
+    --color-5: #c59f69ff;
+
+    /* 语义化颜色变量 */
+    --color-primary: #c59f69ff;
+    --color-secondary: #bbbac0ff;
+    --color-accent: #534833ff;
+    --color-background: #85734aff;
+    --color-text: #c59f69ff;
+
+    /* 透明度变量 */
+    --opacity-90: 90%;
+    --opacity-75: 75%;
+    --opacity-50: 50%;
+    --opacity-25: 25%;
+    --opacity-10: 10%;
+
+    /* 间距变量 */
+    --spacing-xs: 0.25rem;
+    --spacing-sm: 0.5rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 1.5rem;
+    --spacing-xl: 2rem;
+
+    /* 圆角变量 */
+    --radius-sm: 0.25rem;
+    --radius-md: 0.5rem;
+    --radius-lg: 1rem;
+    --radius-full: 9999px;
+}
+
+/* 颜色实用类 */
+.bg-color-1 { background-color: var(--color-1); }
+.text-color-1 { color: var(--color-1); }
+.border-color-1 { border-color: var(--color-1); }
+.hover\:bg-color-1:hover { background-color: var(--color-1); }
+.bg-color-2 { background-color: var(--color-2); }
+.text-color-2 { color: var(--color-2); }
+.border-color-2 { border-color: var(--color-2); }
+.hover\:bg-color-2:hover { background-color: var(--color-2); }
+.bg-color-3 { background-color: var(--color-3); }
+.text-color-3 { color: var(--color-3); }
+.border-color-3 { border-color: var(--color-3); }
+.hover\:bg-color-3:hover { background-color: var(--color-3); }
+.bg-color-4 { background-color: var(--color-4); }
+.text-color-4 { color: var(--color-4); }
+.border-color-4 { border-color: var(--color-4); }
+.hover\:bg-color-4:hover { background-color: var(--color-4); }
+.bg-color-5 { background-color: var(--color-5); }
+.text-color-5 { color: var(--color-5); }
+.border-color-5 { border-color: var(--color-5); }
+.hover\:bg-color-5:hover { background-color: var(--color-5); }
+
+/* 语义化类 */
+.bg-primary { background-color: var(--color-primary); }
+.text-primary { color: var(--color-primary); }
+.border-primary { border-color: var(--color-primary); }
+.hover\:bg-primary:hover { background-color: var(--color-primary); }
+.bg-secondary { background-color: var(--color-secondary); }
+.text-secondary { color: var(--color-secondary); }
+.border-secondary { border-color: var(--color-secondary); }
+.hover\:bg-secondary:hover { background-color: var(--color-secondary); }
+.bg-accent { background-color: var(--color-accent); }
+.text-accent { color: var(--color-accent); }
+.border-accent { border-color: var(--color-accent); }
+.hover\:bg-accent:hover { background-color: var(--color-accent); }
+.bg-background { background-color: var(--color-background); }
+.text-background { color: var(--color-background); }
+.border-background { border-color: var(--color-background); }
+.hover\:bg-background:hover { background-color: var(--color-background); }
+.bg-text { background-color: var(--color-text); }
+.text-text { color: var(--color-text); }
+.border-text { border-color: var(--color-text); }
+.hover\:bg-text:hover { background-color: var(--color-text); }
+
+/* 布局实用类 */
+.flex { display: flex; }
+.flex-col { flex-direction: column; }
+.items-center { align-items: center; }
+.justify-center { justify-content: center; }
+.gap-sm { gap: var(--spacing-sm); }
+.gap-md { gap: var(--spacing-md); }
+.p-sm { padding: var(--spacing-sm); }
+.p-md { padding: var(--spacing-md); }
+.rounded-sm { border-radius: var(--radius-sm); }
+.rounded-md { border-radius: var(--radius-md); }
