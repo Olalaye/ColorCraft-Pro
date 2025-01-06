@@ -20,7 +20,7 @@ ColorCraft-Pro 可以帮助你自动生成颜色卡、UI 设计预览和 HEX 代
 输入：
 ![Color Card Example](avatar.png)
 输出：
-![Color Card Example](output\ui_preview.png)
+![Color Card Example](static/output/ui_preview.png)
 
 ## 贡献
 
